@@ -4,7 +4,7 @@
 Balaji Sivarajan — Senior TPM, Surrey BC Canada. iPhone is primary device. Surface Pro Windows 11 is dev machine. GitHub: ibalajisivarajan
 
 ## What Daily Pulse Is
-TikTok-style vertical scroll news app. Pulls top 30 stories from HN Algolia API every 2h via GitHub Actions, writes to data/stories.json, serves single-file index.html via GitHub Pages. Full-screen snap-scroll cards, photo background, headline overlay. Zero monthly cost.
+Full-screen vertical scroll news app. Pulls top 30 stories from HN Algolia API every 2h via GitHub Actions, writes to data/stories.json, serves single-file index.html via GitHub Pages. Full-screen snap-scroll cards, photo background, headline overlay. Zero monthly cost.
 
 ## Architecture Decisions (All Locked)
 | Decision | Choice |
